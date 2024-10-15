@@ -12,9 +12,9 @@ Analyze: Semantic Parser creates a tree that retains semantic meaning, getting t
 
 🌳 Final Result: Abstract Syntax Tree (AST)  
 The AST represents your code in tree form (think of it like a blueprint 🛠️).  
-Each node represents things like variables, functions, loops, and more! 🌐  
+Each node represents things like variables, functions, loops, and more! 
 
-This AST should then undergo two more compilation phases which were not included in my project (Symbol table generation and Code generation.)  
+❗This AST should then undergo two more compilation phases which were not included in my project (Symbol table generation and Code generation.)  
 
 
 
